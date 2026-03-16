@@ -39,7 +39,6 @@ public class ServiceAnimaux {
      */
     public void afficherAnimaux() {
         //Le code de cette méthode sera ajouté par le programmeur Beta, dans une branche spécifique
-        /* 
         if (animaux.isEmpty()) {
             System.out.println("La liste des animaux est vide.");
         } else {
@@ -48,6 +47,5 @@ public class ServiceAnimaux {
                 System.out.println("- " + animal);
             }
         }
-        */            
     }    
 }
